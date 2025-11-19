@@ -10,3 +10,5 @@ Alongside my studies, I work as a **freelance tutor on @Superprof**, offering pr
 - 📊 Data analysis & visualization  
 - 🐍 Python, SQL, Excel  
 - 🧠 Problem-solving & communication  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brcbanner&show_icons=true&theme=radical)
