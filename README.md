@@ -10,5 +10,3 @@ Alongside my studies, I work as a **freelance tutor on @Superprof**, offering pr
 - 📊 Data analysis & visualization  
 - 🐍 Python, SQL, Excel  
 - 🧠 Problem-solving & communication  
-
-Curious, proactive, and motivated, I’m always looking for opportunities to **grow, learn, and create impact through data**.
