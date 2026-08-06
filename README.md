@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I am a third-year **Computer Science student** at the University of Florence (UniFI), currently on an **Erasmus exchange at Linnaeus University** (Växjö, Sweden). 
+I am a third-year **Computer Science student** at the University of Florence (UniFI), currently on an **Internship at ISPRO (Istituto per lo Studio, la Prevenzione e la Rete Oncologica)** (Florence, Italy). 
 
 **🎯 Current Focus**:
 Data Analysis & Visualization • Backend Development (Java/Python) • Scientific Reporting (LaTeX)
